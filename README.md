@@ -27,4 +27,4 @@ The solver script takes 10 milliseconds delay when changing cell (to the next em
 
 ## Improvement ideas
 
-This backtracking method is probably not the most efficient way to solve this game, the solver script runs quite long sometimes. Altough currently I'm not planning to spend more time with this project, but later I may come back to it and try to find a faster solution. My idea is to try simulate how a human would solve a Sudoku, and compare that's efficiency to this method.
+This backtracking method is popular, but it's probably not the most efficient way to solve this game, the solver script runs quite long sometimes. Although currently I'm not planning to spend more time with this project, but later I may come back to it and try to find a faster solution. My idea is to simulate how a human would solve a Sudoku, and compare that's efficiency with this method's.
